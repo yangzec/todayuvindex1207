@@ -49,18 +49,13 @@ export function middleware(request: NextRequest) {
     return NextResponse.next()
   }
 
-  // 获取用户的首选语言
-  const acceptLanguage = request.headers.get('accept-language')?.split(',')[0].split('-')[0]
-  const locale = locales.includes(acceptLanguage || '') ? acceptLanguage : 'en'
-
-  // 重定向到带有语言前缀的路径
-  const url = new URL(`/${locale}${pathname}`, request.url)
+  // 默认重定向到英文
+  const url = new URL(`/en${pathname}`, request.url)
   return NextResponse.redirect(url)
 }
 
 export const config = {
   matcher: [
-    // 排除不需要处理的路径
-    '/((?!_next/static|_next/image|favicon.ico|api).*)'
+    '/((?!api|_next/static|_next/image|favicon.ico).*)'
   ]
 }
