@@ -1,63 +1,63 @@
 export const FAQS_EN = [
   {
-    title: "What is a landing page?",
-    content:
-      "A landing page is a standalone web page created specifically for a marketing or advertising campaign. It's where a visitor 'lands' after they click on a link in an email, or ads from Google, Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web. Unlike web pages, which typically have many goals and encourage exploration, landing pages are designed with a single focus or goal, known as a call to action (CTA).",
+    title: "What is a UV index?",
+    content: 
+      "The UV index is a standardized measurement of ultraviolet radiation intensity from the sun. It ranges from 1 (low) to 11+ (extreme) and helps people understand their risk of sun exposure. This information is crucial for planning outdoor activities and taking appropriate sun protection measures.",
   },
   {
-    title: "How can I create a landing page?",
+    title: "Why is checking the UV index today important?",
     content:
-      "Creating a landing page can be done in several steps: 1) Choose a landing page template that fits your campaign's needs or start from scratch. 2) Identify your landing page's objective and CTA. 3) Write compelling content that urges visitors to take action. 4) Incorporate design elements such as images, videos, and forms that align with your message. 5) Test your page's usability and mobile responsiveness. 6) Use SEO best practices to help your page get found. 7) Publish your landing page and monitor its performance to make adjustments as needed.",
+      "Checking today's UV index is essential for protecting your skin and health. High UV levels can cause sunburn, premature aging, eye damage, and increase skin cancer risk. By knowing the current UV index, you can make informed decisions about sun protection and outdoor activity timing.",
   },
   {
-    title: "Why is a landing page important?",
+    title: "How do I interpret UV index readings?",
     content:
-      "Landing pages are crucial for any marketing strategy because they provide a targeted platform for converting visitors into leads or customers. Unlike general websites, landing pages focus the visitor's attention on a single offer, minimizing distractions and guiding them towards a specific action. This focused approach can significantly increase the effectiveness of your marketing campaigns, improve your ad performance, and enhance the overall user experience by providing them with the information or solution they were seeking.",
+      "UV index readings are categorized as follows: 1-2 (Low), 3-5 (Moderate), 6-7 (High), 8-10 (Very High), and 11+ (Extreme). Each level requires different protection measures. For example, when the UV index is high (6-7), you should seek shade during midday hours and always use sun protection.",
   },
   {
-    title: "Why choose our landing page boilerplate?",
+    title: "What factors affect the UV index today?",
     content:
-      "Our landing page template is free, open-source, and powerful, making it ideal for various projects and marketing campaigns. It allows you to create a landing page in under an hour, simplifying the development process while also offering a high degree of customization and responsiveness.",
+      "Several factors influence today's UV index: time of day (highest between 10am-4pm), season, cloud cover, altitude, latitude, and reflective surfaces like snow or water. Our website provides real-time UV index data considering these factors for accurate readings.",
   },
   {
-    title: "What skills do I need to use this template?",
+    title: "How often is the UV index updated?",
     content:
-      "To use our landing page template, you only need basic web editing skills. The design of the template is intended to be easy for non-technical users to get started with, while also providing high customizability for experienced developers.",
+      "Our UV index readings are updated regularly throughout the day to provide the most current information. This helps you plan your outdoor activities with the latest UV exposure data.",
   },
   {
-    title: "How do I get started with the landing page template?",
+    title: "What sun protection is recommended for different UV levels?",
     content:
-      "Getting started is very simple. Just download the source code from our GitHub repository, edit the text and images as needed, and then deploy it to your server.",
+      "Protection needs vary by UV level: Low (1-2): Basic protection, Moderate (3-5): Sunscreen, hat, and sunglasses, High (6-7): Add protective clothing and shade, Very High/Extreme (8+): Minimize outdoor activities during peak hours and use maximum protection.",
   },
   {
-    title: "Does the landing page template support responsive design?",
+    title: "Can I check the UV index for different locations?",
     content:
-      "Yes, our landing page template supports responsive design, ensuring that your webpage displays perfectly on a variety of devices, whether desktop, tablet, or smartphone.",
+      "Yes, our website allows you to check UV index readings for various locations worldwide. Simply enter your desired location to get current and forecasted UV index information.",
   },
   {
-    title: "Can I use this template for a commercial project?",
+    title: "Why use our UV index website?",
     content:
-      "Absolutely. Our template is open-source, and you can use it for any type of project, including commercial purposes. We encourage users to utilize this template to create and optimize their online projects.",
+      "Our website provides accurate, real-time UV index data with user-friendly features. We offer detailed UV forecasts, protection recommendations, and educational resources to help you make informed decisions about sun exposure.",
   },
   {
-    title: "Do you offer any customization services?",
+    title: "Is the UV index high when it's cloudy?",
     content:
-      "We accept paid custom development of landing pages. Please contact us via email at weijunext@gmail.com or Twitter @weijunext.",
+      "Yes, UV rays can penetrate clouds, and the UV index can still be high on cloudy days. This is why checking the actual UV index rather than relying on weather appearance is important for proper sun protection.",
   },
   {
-    title: "Are there any restrictions on using this template?",
+    title: "How can I get UV index alerts?",
     content:
-      "No. You are free to use and modify this template. At the same time, we encourage developers to submit PRs to help improve this landing page template together.",
+      "You can sign up for our UV index alerts to receive notifications when UV levels in your area reach potentially dangerous levels. This helps you stay protected throughout the day.",
   },
   {
-    title: "Does this template include SEO optimization features?",
+    title: "Do you offer a mobile app for UV index checking?",
     content:
-      "Yes, our template includes basic SEO optimization features to help your webpage achieve better rankings in search engines.",
+      "Yes, we offer a mobile app that provides instant access to UV index information. Download our app to check UV levels on the go and receive real-time updates.",
   },
   {
-    title: "What should I do if I encounter problems using the template?",
+    title: "How can I contact support for UV index questions?",
     content:
-      "If you encounter any issues while using the template, please contact us via Twitter @weijunext.",
+      "If you have questions about UV index readings or using our service, please contact us via email at support@todayuvindex.com or through our website's help center.",
   },
 ];
 

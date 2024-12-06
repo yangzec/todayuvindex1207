@@ -1,47 +1,47 @@
 {
   "Hero": {
-    "title1": "Ship",
-    "title2": "Landing Page",
-    "title3": "Fast",
-    "description": "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour."
+    "title1": "Today's",
+    "title2": "UV Index",
+    "title3": "Check",
+    "description": "Get instant access to accurate UV index information for your location, helping you protect your skin and plan outdoor activities safely."
   },
   "SocialProof": {
-    "maker": "makers ship fast"
+    "maker": "trusted by outdoor enthusiasts"
   },
   "Showcase": {
-    "title": "Showcase",
-    "description": "Join 1000+ Makers Boosting Conversions with Our Landing Page Boilerplate"
+    "title": "UV Protection",
+    "description": "Join millions of users who rely on our UV index forecasts for their daily sun protection"
   },
   "Feature": {
     "title": "Features"
   },
   "Pricing": {
-    "title": "Pricing",
-    "title2": "Get unlimited access.",
-    "description": "The page you are currently viewing is an open-source, free boilerplate.",
-    "doYouLike": "Do you like this landing page boilerplate?",
-    "follow": "Follow my Twitter."
+    "title": "UV Index Scale",
+    "title2": "Understanding UV Levels",
+    "description": "Access real-time UV index data and personalized sun safety recommendations.",
+    "doYouLike": "Want to stay protected from harmful UV rays?",
+    "follow": "Get daily UV alerts."
   },
   "Testimonials": {
-    "title": "Testimonials",
-    "description1": "If you use this landing page template and recommend it on your Twitter,",
-    "description2": "please let me know",
-    "description3": ". I will display your tweet and recommendation here."
+    "title": "User Stories",
+    "description1": "See how others are using our UV index tracking service",
+    "description2": "share your experience",
+    "description3": "and help others stay sun-safe."
   },
   "FAQ": {
     "title": "FAQs",
-    "description": "Here are some of the most frequently asked questions."
+    "description": "Common questions about UV index and sun protection."
   },
   "CTA": {
-    "title": "Build Your Landing Page Now",
-    "description1": "Build",
-    "description2": "your landing page,",
-    "description3": "show",
-    "description4": "your product, and",
-    "description5": "start earning",
+    "title": "Check Today's UV Index Now",
+    "description1": "Know",
+    "description2": "your UV exposure,",
+    "description3": "plan",
+    "description4": "your activities,",
+    "description5": "stay protected",
     "description6": "!"
   },
   "CTAButton": {
-    "title": "Get Boilerplate"
+    "title": "Check UV Index"
   }
 }

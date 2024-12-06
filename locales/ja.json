@@ -1,47 +1,47 @@
 {
   "Hero": {
-    "title1": "",
-    "title2": "ランディングページ",
-    "title3": "迅速に構築",
-    "description": "無料でオープンソースかつ強力なランディングページのテンプレート。さまざまなプロジェクトに理想的で、1時間以内にランディングページを作成できます。"
+    "title1": "今日の",
+    "title2": "UV指数",
+    "title3": "チェック",
+    "description": "お住まいの地域の正確なUV指数情報にすぐにアクセスし、肌を守り、屋外活動を安全に計画することができます。"
   },
   "SocialProof": {
-    "maker": "開発者が迅速に出荷"
+    "maker": "アウトドア愛好家に信頼されています"
   },
   "Showcase": {
-    "title": "Showcase",
-    "description": "1000人以上のクリエイターが利用中！コンバージョン率アップを実現するランディングページテンプレート"
+    "title": "UV対策",
+    "description": "日々の紫外線対策のために当社のUV指数予報を利用している何百万人ものユーザーの仲間入りをしましょう"
   },
   "Feature": {
-    "title": "Feature"
+    "title": "機能"
   },
   "Pricing": {
-    "title": "価格設定",
-    "title2": "無制限アクセスを取得。",
-    "description": "現在閲覧中のページは、オープンソースで無料のテンプレートです。",
-    "doYouLike": "このランディングページのテンプレートは気に入りましたか？",
-    "follow": "私のTwitterをフォローしてください。"
+    "title": "UV指数スケール",
+    "title2": "UV指数を理解する",
+    "description": "リアルタイムのUV指数データとパーソナライズされた日焼け対策のアドバイスにアクセス。",
+    "doYouLike": "有害な紫外線から身を守りたいですか？",
+    "follow": "毎日のUVアラートを受け取る"
   },
   "Testimonials": {
-    "title": "Testimonials",
-    "description1": "このランディングページテンプレートを使用してTwitterで推奨した場合、",
-    "description2": "私に知らせてください",
-    "description3": "。あなたのツイートと推薦をここに表示します。"
+    "title": "ユーザーストーリー",
+    "description1": "UV指数追跡サービスの利用者の声をご覧ください",
+    "description2": "あなたの体験を共有し、",
+    "description3": "他の人々の日焼け対策に役立てましょう。"
   },
   "FAQ": {
-    "title": "FAQs",
-    "description": "最も頻繁に尋ねられる質問はこちらです。"
+    "title": "よくある質問",
+    "description": "UV指数と日焼け対策に関するよくある質問"
   },
   "CTA": {
-    "title": "今すぐあなたのランディングページを構築",
-    "description1": "あなたのランディングページを",
-    "description2": "構築し、",
-    "description3": "あなたの製品を",
-    "description4": "紹介し、そして",
-    "description5": "収益を得始めましょう",
+    "title": "今すぐ今日のUV指数をチェック",
+    "description1": "UV指数を",
+    "description2": "確認して、",
+    "description3": "行動を",
+    "description4": "計画し、",
+    "description5": "しっかり対策",
     "description6": "！"
   },
   "CTAButton": {
-    "title": "テンプレートを入手"
+    "title": "UV指数をチェック"
   }
 }

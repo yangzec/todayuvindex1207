@@ -1,47 +1,47 @@
 {
   "Hero": {
-    "title1": "快速构建",
-    "title2": "落地页",
-    "title3": "",
-    "description": "一个免费、开源且强大的落地页模板，适用于各种项目，让你在一个小时内搭建落地页。"
+    "title1": "今日",
+    "title2": "紫外线指数",
+    "title3": "查询",
+    "description": "即时获取您所在位置的精确紫外线指数信息，帮助您保护皮肤并安全规划户外活动。"
   },
   "SocialProof": {
-    "maker": "制作者快速开发"
+    "maker": "受户外运动爱好者信赖"
   },
   "Showcase": {
-    "title": "Showcase",
-    "description": "与1000+创作者一起，使用我们的落地页模板提升转化率"
+    "title": "紫外线防护",
+    "description": "加入数百万用户的行列，依靠我们的紫外线指数预报进行日常防晒"
   },
   "Feature": {
-    "title": "Feature"
+    "title": "功能特点"
   },
   "Pricing": {
-    "title": "定价",
-    "title2": "拥有无限访问权限",
-    "description": "你当前查看的页面是一个开源的、免费的模板。",
-    "doYouLike": "你喜欢这个落地页模板吗？",
-    "follow": "关注我的推特。"
+    "title": "紫外线指数等级",
+    "title2": "了解紫外线水平",
+    "description": "获取实时紫外线指数数据和个性化防晒建议。",
+    "doYouLike": "想要防护有害紫外线吗？",
+    "follow": "获取每日紫外线提醒。"
   },
   "Testimonials": {
-    "title": "Testimonials",
-    "description1": "如果你使用这个落地页模板并在推特上推荐了，",
-    "description2": "请告诉我",
-    "description3": "，我会在这里展示你的推文和推荐。"
+    "title": "用户故事",
+    "description1": "看看其他人如何使用我们的紫外线指数追踪服务",
+    "description2": "分享您的使用体验",
+    "description3": "帮助他人安全防晒。"
   },
   "FAQ": {
-    "title": "FAQs",
-    "description": "这里有一些最常见的问题。"
+    "title": "常见问题",
+    "description": "关于紫外线指数和防晒的常见问题解答。"
   },
   "CTA": {
-    "title": "立即构建你的落地页",
-    "description1": "构建",
-    "description2": "你的落地页，",
-    "description3": "展示",
-    "description4": "你的产品，并开始",
-    "description5": "赚取收入",
+    "title": "立即查看今日紫外线指数",
+    "description1": "了解",
+    "description2": "紫外线暴露程度，",
+    "description3": "规划",
+    "description4": "您的活动，",
+    "description5": "保持防护",
     "description6": "！"
   },
   "CTAButton": {
-    "title": "获取模板"
+    "title": "查看紫外线指数"
   }
 }

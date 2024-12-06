@@ -1,46 +1,47 @@
 {
   "Hero": {
-    "title1": "",
-    "title2": "Página de aterrizaje",
-    "title3": "construcción rápida"
+    "title1": "Índice",
+    "title2": "UV de",
+    "title3": "Hoy",
+    "description": "Obtén acceso instantáneo a información precisa del índice UV para tu ubicación, ayudándote a proteger tu piel y planificar actividades al aire libre de manera segura."
   },
   "SocialProof": {
-    "maker": "creadores construyen rápido"
+    "maker": "de confianza para los entusiastas de actividades al aire libre"
   },
   "Showcase": {
-    "title": "Escaparate",
-    "description": "Únete a más de 1000 creadores que aumentan sus conversiones con nuestra plantilla de página de aterrizaje"
+    "title": "Protección UV",
+    "description": "Únete a millones de usuarios que confían en nuestros pronósticos del índice UV para su protección solar diaria"
   },
   "Feature": {
     "title": "Características"
   },
   "Pricing": {
-    "title": "Precios",
-    "title2": "Obtén acceso ilimitado.",
-    "description": "La página que estás viendo actualmente es un template gratuito y de código abierto.",
-    "doYouLike": "¿Te gusta este template para páginas de aterrizaje?",
-    "follow": "Sigue mi Twitter."
+    "title": "Escala del Índice UV",
+    "title2": "Entendiendo los Niveles UV",
+    "description": "Accede a datos del índice UV en tiempo real y recomendaciones personalizadas de protección solar.",
+    "doYouLike": "¿Quieres protegerte de los rayos UV dañinos?",
+    "follow": "Recibe alertas UV diarias."
   },
   "Testimonials": {
-    "title": "Muro del Amor",
-    "description1": "Si usas esta plantilla para página de aterrizaje y la recomiendas en tu Twitter,",
-    "description2": "por favor házmelo saber",
-    "description3": ". Exhibiré tu tweet y recomendación aquí."
+    "title": "Historias de Usuarios",
+    "description1": "Mira cómo otros están usando nuestro servicio de seguimiento del índice UV",
+    "description2": "comparte tu experiencia",
+    "description3": "y ayuda a otros a protegerse del sol."
   },
   "FAQ": {
     "title": "Preguntas Frecuentes",
-    "description": "Aquí están algunas de las preguntas más frecuentes."
+    "description": "Preguntas comunes sobre el índice UV y la protección solar."
   },
   "CTA": {
-    "title": "Construye tu página de aterrizaje ahora",
-    "description1": "Construye",
-    "description2": "tu página de aterrizaje,",
-    "description3": "muestra",
-    "description4": "tu producto, y",
-    "description5": "comienza a ganar",
-    "description6": "¡dinero!"
+    "title": "Consulta el Índice UV de Hoy",
+    "description1": "Conoce",
+    "description2": "tu exposición UV,",
+    "description3": "planifica",
+    "description4": "tus actividades,",
+    "description5": "mantente protegido",
+    "description6": "!"
   },
   "CTAButton": {
-    "title": "Obtener Plantilla"
+    "title": "Consultar Índice UV"
   }
 }

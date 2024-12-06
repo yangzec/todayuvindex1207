@@ -7,71 +7,66 @@ import { MdCloudUpload } from "react-icons/md";
 
 export const FEATURES_EN = [
   {
-    title: "Open Source Advantage",
-    content: "Completely free with a wealth of customization options.",
-    icon: BsGithub,
+    title: "Real-time UV Index",
+    content: "Get instant, accurate UV index data for your location today.",
+    icon: FaEarthAsia,
   },
   {
-    title: "Responsive Design",
-    content:
-      "Templates meticulously designed to ensure optimal display on any device.",
+    title: "Location-based Service",
+    content: "Automatically detect your location for precise UV index readings.",
     icon: FaMobileScreenButton,
   },
   {
-    title: "Easy Customization",
-    content:
-      "Effortlessly change colors, fonts, and layouts without any coding knowledge.",
+    title: "Health Protection Guide",
+    content: "Personalized recommendations for sun protection based on current UV levels.",
     icon: FaToolbox,
   },
   {
     title: "SEO Optimized",
-    content:
-      "Templates built with search engine optimization in mind to enhance your website's discoverability.",
+    content: "Easily find UV index information with search terms like 'UV index today' and 'today UV index'.",
     icon: MagnetIcon,
   },
   {
-    title: "One-Click Deployment",
-    content:
-      "Tightly integrated with leading web hosting services for instant website publishing.",
+    title: "Hourly Forecasts",
+    content: "View detailed UV index predictions throughout the day for better planning.",
     icon: MdCloudUpload,
   },
   {
-    title: "Globalization Support",
-    content:
-      "Supports multiple languages, making your website attractive to a global audience.",
+    title: "Multi-language Support",
+    content: "Access UV index information in your preferred language for better understanding.",
     icon: FaEarthAsia,
   },
 ];
 
 export const FEATURES_ZH = [
   {
-    title: "开源优势",
-    content: "完全免费，提供丰富的自定义选项。",
-    icon: BsGithub,
+    title: "实时紫外线指数",
+    content: "获取您所在位置的即时、准确的紫外线指数数据。",
+    icon: FaEarthAsia,
   },
   {
-    title: "响应式设计",
-    content: "精心设计的模板，确保在任何设备上都能优化显示。",
+    title: "基于位置的服务",
+    content: "自动检测您的位置，提供精确的紫外线指数读数。",
     icon: FaMobileScreenButton,
   },
   {
-    title: "易于定制",
-    content: "轻松更改颜色、字体和布局，无需任何编码知识。",
+    title: "健康防护指南",
+    content: "根据当前紫外线水平提供个性化的防晒建议。",
     icon: FaToolbox,
   },
   {
-    title: "SEO优化",
-    content: "构建模板时考虑到搜索引擎优化，增强网站的可发现性。",
+    title: "搜索引擎优化",
+    content: "轻松找到今日紫外线指数信息，支持多种搜索关键词。",
     icon: MagnetIcon,
   },
   {
-    title: "一键部署",
-    content: "与领先的网站托管服务紧密集成，实现即时网站发布。",
+    title: "每小时预报",
+    content: "查看全天详细的紫外线指数预测，便于更好地规划。",
     icon: MdCloudUpload,
   },
   {
-    title: "全球化支持",
-    content: "支持多种语言，让你的网站吸引全球受众。",
+    title: "多语言支持",
+    content: "使用您偏好的语言获取紫外线指数信息，便于理解。",
     icon: FaEarthAsia,
   },
 ];

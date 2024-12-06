@@ -19,6 +19,19 @@ const Hero = ({ locale, CTALocale }: { locale: any; CTALocale: any }) => {
           },
         }}
       > */}
+
+      <section className="weather-widget-container">
+        <div>
+          <iframe
+            style={{ display: "block" }}
+            src="https://cdnres.willyweather.com/widget/loadView.html?id=155859"
+            width="1000"
+            height="520"
+            frameBorder="0"
+            scrolling="no"
+          ></iframe>
+        </div>
+      </section>
       <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-16 pt-16 md:pt-24 text-center">
         <h1>
           {locale.title1} <LineText>{locale.title2}</LineText> {locale.title3}
