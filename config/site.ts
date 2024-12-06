@@ -1,13 +1,13 @@
 import { SiteConfig } from "@/types/siteConfig";
 
-const OPEN_SOURCE_URL = 'https://github.com/weijunext/landing-page-boilerplate'
+const OPEN_SOURCE_URL = 'https://todayuvindex.com/'
 
 const baseSiteConfig = {
   name: "Today UV Index",
   description:
     "Today UV Index - Real-time global UV index monitoring tool. Get accurate UV forecasts, sun protection recommendations, and outdoor activity guidance to protect your skin health effectively.",
-  url: "https://landingpage.weijunext.com",
-  ogImage: "https://landingpage.weijunext.com/og.png",
+  url: "https://todayuvindex.com/",
+  // ogImage: "https://landingpage.weijunext.com/og.png",
   metadataBase: '/',
   keywords: ["UV index today",
     "today UV index", 
