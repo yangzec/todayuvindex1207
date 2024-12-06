@@ -7,7 +7,7 @@ const baseSiteConfig = {
   description:
     "Today UV Index - Real-time global UV index monitoring tool. Get accurate UV forecasts, sun protection recommendations, and outdoor activity guidance to protect your skin health effectively.",
   url: "https://todayuvindex.com/",
-  // ogImage: "https://landingpage.weijunext.com/og.png",
+  ogImage: "https://todayuvindex.com/og.png",
   metadataBase: '/',
   keywords: ["UV index today",
     "today UV index", 
