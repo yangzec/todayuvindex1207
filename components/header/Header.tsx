@@ -12,7 +12,7 @@ import { ThemedButton } from "../ThemedButton";
 
 const links = [
   { label: "Features", href: "#Features" },
-  // { label: "Pricing", href: "#Pricing" },
+  { label: "Pricing", href: "#Pricing" },
   { label: "Testimonials", href: "#Testimonials" },
   { label: "FAQ", href: "#FAQ" },
 ];
@@ -35,7 +35,7 @@ const Header = () => {
           >
             <Image
               alt="Logo"
-              src="/apple-touch-icon.png"
+              src="/icon-192.png"
               className="w-8 h-8"
               width={32}
               height={32}

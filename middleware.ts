@@ -1,7 +1,6 @@
-
-import { NextRequest } from "next/server";
 import { locales } from "./lib/i18n";
 
+import { NextRequest } from "next/server";
 
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
