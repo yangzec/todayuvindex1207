@@ -42,7 +42,13 @@ export default async function RootLayout({
 }) {
   return (
     <html lang={lang || defaultLocale} suppressHydrationWarning>
-      <head />
+      <head>
+        <script
+          defer
+          data-domain="todayuvindex.com"
+          src="https://gshqeklb.sealosbja.site/js/script.js"
+        ></script>
+      </head>
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased",
