@@ -33,7 +33,7 @@ const Hero = ({ locale, CTALocale }: { locale: any; CTALocale: any }) => {
         <div>
           <iframe
             style={{ display: "block" }}
-            src="https://cdnres.willyweather.com/widget/loadView.html?id=155859"
+            src="https://cdnres.willyweather.com/widget/loadView.html?id=155859#uv"
             width="1000"
             height="520"
             frameBorder="0"
