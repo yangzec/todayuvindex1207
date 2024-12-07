@@ -3,9 +3,9 @@ import { SiteConfig } from "@/types/siteConfig";
 const OPEN_SOURCE_URL = 'https://todayuvindex.com/'
 
 const baseSiteConfig = {
-  name: "Today UV Index",
+  name: "UV Index Today",
   description:
-    "Today UV Index - Real-time global UV index monitoring tool. Get accurate UV forecasts, sun protection recommendations, and outdoor activity guidance to protect your skin health effectively.",
+    "UV Index Today - Real-time global UV index monitoring tool. Get accurate UV forecasts, sun protection recommendations, and outdoor activity guidance to protect your skin health effectively.",
   url: "https://todayuvindex.com/",
   ogImage: "https://todayuvindex.com/og.png",
   metadataBase: '/',
